@@ -7,7 +7,7 @@
 ;; Version: 0.1.20141019
 ;; Package-Requires: ((emacs "24"))
 ;; Keywords: tools
-;; URL: http://github.com/omajid/bug-reference+
+;; URL: http://github.com/omajid/bug-reference-
 
 ;; This file is NOT part of GNU Emacs.
 
